@@ -15,7 +15,7 @@ public class NonDeterministicKeyGenerator {
         Wallet wallet = new Wallet();
         wallet.setPrivateKeyHex(ecKey.getPrivateKeyAsHex());
         wallet.setPrivateKeyWif(ecKey.getPrivateKeyAsWiF(new MainNetParams()));
-        wallet.setLegacyAddress(LegacyAddress.fromKey(new MainNetParams(), ecKey.decompress()).toString());
+        wallet.setLegacyAddress(LegacyAddress.fromKey(new MainNetParams(), ecKey).toString());
         return wallet;
     }
 

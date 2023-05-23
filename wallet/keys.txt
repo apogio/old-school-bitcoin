@@ -1,6 +1,6 @@
 ----------
 | Wallet |
 ----------
-Private Key: c45907988436571c69030c437302ab08ea20ecb8f808511c0c2257d10896e5f2
-Private Key (WIF): L3oPJNthLdCoTHcjAV3bKPXch3ST5qNrGWY1EQqzojr7gQrP9w5Y
-Legacy Address: 1LRDWtEgzdijwhyqrQL3xTdCwNkb8fqihV
+Private Key: 7ec22f08e047d85581cc481fdf03a0b081807844a37fa5e80406ef942232a757
+Private Key (WIF): L1U7W3n9xWBY7GETCdeCUWte33AHS9kissijfG4DQMooXmismKyY
+Legacy Address: 1141YMU24cvvwGLjYw7k3pv16faXikhYwJ
